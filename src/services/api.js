@@ -1,5 +1,4 @@
-const API_BASE_URL = 'http://localhost:5000/api';
-
+const API_BASE_URL = 'https://online-quiz-app-backend-1-5hio.onrender.com/api';
 export const userAPI = {
   register: async (userData) => {
     try {
